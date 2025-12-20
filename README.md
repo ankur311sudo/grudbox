@@ -3,7 +3,7 @@
 <img width="2240" height="1400" alt="screenshot-2025-12-20_23-00-58" src="https://github.com/user-attachments/assets/8befd83d-44c1-4b24-ad64-fa663c9caa63" />
 
 
-🌿 Grudbox – A Grounded, Earth-Toned Theme for Omarchy
+#Grudbox – A Grounded, Earth-Toned Theme for Omarchy
 
 Grudbox is a calm, earth-inspired dark theme crafted for Omarchy on Arch + Hyprland.
 It blends muted olive greens, warm shadows, and soft contrast to create a desktop that feels
@@ -16,8 +16,14 @@ subtle, grounded, and restrained — where nothing screams for attention, yet ev
 ## Previwes 
 
 <img width="2238" height="1398" alt="screenshot-2025-12-19_03-14-16" src="https://github.com/user-attachments/assets/617bea94-cbde-4267-96ee-048a616d6590" />
+
 <img width="2240" height="1400" alt="screenshot-2025-12-19_03-04-36" src="https://github.com/user-attachments/assets/a1757d04-2563-4dc6-8126-fb8276db4f9f" />
-<img width="2240" height="1400" alt="screenshot-2025-12-19_03-04-36" src="https://github.com/user-attachments/assets/16d295b9-6f5a-4c84-a26a-dd1edd637d99" />
+
+<img width="2240" height="1400" alt="screenshot-2025-12-19_03-10-32" src="https://github.com/user-attachments/assets/3747c366-f946-4ebd-b225-a49ecd5f7343" />
+
+
+<img width="2240" height="1400" alt="screenshot-2025-12-19_03-25-35" src="https://github.com/user-attachments/assets/f6b0e323-f714-4cdc-9364-14f66f2571c1" />
+
 
 
 ## Installation
@@ -51,24 +57,3 @@ Designed specifically with modern Wayland workflows and Hyprland layouts in mind
 
 #Screenshot-ready, daily-driven
 Looks good in screenshots, but more importantly, feels right during everyday use.
-
-## Why Snow_Black?
-
-Because not everyone wants a loud desktop.
-
-Grudbox is for people who prefer calm over contrast, focus over flash, 
-and consistency over customization overload. While many themes aim to impress instantly, 
-Grudbox is designed to stay comfortable after hours of use.
-
-It takes inspiration from Gruvbox’s warmth,
-but softens the edges — toning down saturation, reducing visual noise, and creating a more grounded, natural feel.
-
-If you:
-
-work long hours in the terminal
-
-prefer muted, earthy colors over neon highlights
-
-want a theme that blends into your workflow instead of competing with it
-
-…then Grudbox is made for you.
