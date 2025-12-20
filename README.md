@@ -4,7 +4,6 @@
 
 
 
-Grudbox – A Grounded, Earth-Toned Theme for Omarchy
 
 Grudbox is a calm, earth-inspired dark theme crafted for Omarchy on Arch + Hyprland.
 It blends muted olive greens, warm shadows, and soft contrast to create a desktop that feels
