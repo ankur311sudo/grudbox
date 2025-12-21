@@ -6,6 +6,7 @@
 
 
 Grudbox is a calm, earth-inspired dark theme crafted for Omarchy on Arch + Hyprland.
+All the credits goes to @imbypass 
 It blends muted olive greens, warm shadows, and soft contrast to create a desktop that feels
 focused, balanced, and deeply comfortable for long sessions.
 
@@ -32,7 +33,7 @@ subtle, grounded, and restrained — where nothing screams for attention, yet ev
 To install this theme, simply use the `omarchy-theme-install` command:
 
 ```sh
-omarchy-theme-install https://github.com/ankur311sudo/grudbox
+omarchy-theme-install https://github.com/ankur311sudo/grudbox.git
 ```
 
 
