@@ -48,7 +48,7 @@
 
 
 window {
-  background: #1f1f1f;
+  background: #131515;
   font-family: "JetBrainsMono Nerd Font Propo";
   font-size: 12px;
   font-weight: 700;
@@ -57,9 +57,10 @@ window {
 
 /* ===== Outer frame ===== */
 window .box-wrapper {
-  background: #1f1f1f;
+  background: #131515;
   padding: 10px;
-  border: 4px solid #d8a657;        
+  border: 4px solid #e78a4e;        
+  border-radius: 8px;
   margin: 0;
 }
 
@@ -72,7 +73,8 @@ window .content {
 /* ===== Search bar ===== */
 window .search-container {
   background: #1f1f1f;
-  border: 2px solid #d8a657;
+  border: 2px solid #e78a4e;
+  border-radius: 8px;
   margin-bottom: 8px;
 }
 
@@ -102,7 +104,8 @@ child:hover {
 
 /* ===== Selected item ===== */
 child:selected {
-  background: #d8a657;              /* yellow highlight */
+  background: #e78a4e;              /* yellow highlight */
+  border-radius : 8px;
 }
 
 /* ===== Icon ===== */
