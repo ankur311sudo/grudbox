@@ -59,7 +59,7 @@ window {
 window .box-wrapper {
   background: #131515;
   padding: 10px;
-  border: 4px solid #e78a4e;        
+  border: 3px solid #e78a4e;        
   border-radius: 8px;
   margin: 0;
 }
