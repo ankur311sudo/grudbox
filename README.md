@@ -18,7 +18,8 @@ subtle, grounded, and restrained — where nothing screams for attention, yet ev
 
 <img width="2238" height="1398" alt="screenshot-2025-12-19_03-14-16" src="https://github.com/user-attachments/assets/617bea94-cbde-4267-96ee-048a616d6590" />
 
-<img width="2240" height="1400" alt="screenshot-2025-12-19_03-04-36" src="https://github.com/user-attachments/assets/a1757d04-2563-4dc6-8126-fb8276db4f9f" />
+<img width="2240" height="1400" alt="screenshot-2026-01-04_14-20-51" src="https://github.com/user-attachments/assets/119ebd88-3c04-46f2-8fd3-2ef5c37d099d" />
+
 
 <img width="2240" height="1400" alt="screenshot-2026-01-04_14-11-45" src="https://github.com/user-attachments/assets/4d733014-1bfb-40ef-8598-ebe3dc8bd0d7" />
 
